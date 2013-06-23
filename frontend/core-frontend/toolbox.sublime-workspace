@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <title></title>\n    <meta name=\"description\" content=\"\">\n    <meta name=\"viewport\" content=\"width=device-width\">\n    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n    <!-- build:css styles/main.css -->\n    <link rel=\"stylesheet\" href=\"styles/main.css\">\n    <!-- endbuild -->\n    <link rel=\"stylesheet\" href=\"components/angular-ui/build/angular-ui.css\"/>\n  </head>\n  <body ng-app=\"ToolboxApp\">\n    <!--[if lt IE 7]>\n      <p class=\"chromeframe\">You are using an outdated browser. <a href=\"http://browsehappy.com/\">Upgrade your browser today</a> or <a href=\"http://www.google.com/chromeframe/?redirect=true\">install Google Chrome Frame</a> to better experience this site.</p>\n    <![endif]-->\n\n    <!--[if lt IE 9]>\n      <script src=\"components/es5-shim/es5-shim.js\"></script>\n      <script src=\"components/json3/lib/json3.min.js\"></script>\n    <![endif]-->\n\n    <!-- Add your site or application content here -->\n    <div class=\"container\" ng-view></div>\n\n    <script src=\"components/angular/angular.js\"></script>\n    <script src=\"components/angular-resource/angular-resource.js\"></script>\n    <script src=\"components/angular-cookies/angular-cookies.js\"></script>\n    <script src=\"components/angular-sanitize/angular-sanitize.js\"></script>\n    <script src=\"components/angular-ui/build/angular-ui.js\"></script>\n\n    <!-- build:js scripts/scripts.js -->\n    <script src=\"scripts/app.js\"></script>\n    <script src=\"scripts/controllers/main.js\"></script>\n    <!-- endbuild -->\n\n    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->\n    <script>\n      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];\n      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];\n      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';\n      s.parentNode.insertBefore(g,s)}(document,'script'));\n    </script>\n  </body>\n</html>\n",
+			"file": "app/index.html",
+			"file_size": 2307,
+			"file_write_time": 1370887126000000,
+			"settings":
+			{
+				"buffer_size": 2307,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nic/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/nic/Develop/angularJS/test/wordplay/client/wordplay.html",
+		"/Users/nic/Develop/angularJS/test/wordplay/client/wordplay.css",
+		"/Library/WebServer/joomla/joomla-2.5/templates/beez_20/templateDetails.xml",
+		"/Library/WebServer/joomla/joomla-2.5/templates/stubben/templateDetails.xml",
+		"/Library/WebServer/joomla/joomla-2.5/templates/atomic/templateDetails.xml",
+		"/Library/WebServer/joomla/joomla-2.5/templates/beez_20/css/personal.css",
+		"/Library/WebServer/joomla/joomla-2.5/templates/beez_20/index.php",
+		"/Library/WebServer/joomla/joomla-2.5/templates/beez_20/css/general.css",
+		"/Library/WebServer/joomla/joomla-2.5/templates/beez_20/css/template_css.css",
+		"/Library/WebServer/joomla/joomla-2.5/templates/beez_20/css/position.css",
+		"/Library/WebServer/joomla/joomla-2.5/templates/beez_20/html/index.html",
+		"/Library/WebServer/joomla/joomla-2.5/templates/atomic/index.php",
+		"/Library/WebServer/joomla/joomla-2.5/templates/stubben/index.php",
+		"/Library/WebServer/joomla/joomla-1.5/templates/stubben/index.php",
+		"/Library/WebServer/joomla/joomla-1.5/templates/stubben/css/template_css.css",
+		"/Library/WebServer/joomla/joomla-1.5/templates/stubben/css/index.htm",
+		"/Users/nic/Downloads/com_mtwmigrator/mtwmigrator.xml",
+		"/Users/nic/Develop/projects/oppnadata.se/server/oppnadata-se-server-0.0.1/webapps/ROOT/includes/menu.inc",
+		"/Users/nic/Develop/projects/oppnadata.se/server/oppnadata-se-server-0.0.1/webapps/ROOT/includes/locale.inc",
+		"/Users/nic/Develop/projects/oppnadata.se/server/test/oppnadata-se-server-0.0.1/webapps/ROOT/includes/form.inc",
+		"/Users/nic/Develop/projects/oppnadata.se/code/OppnaData.SE/oppnadata.se-theme/src/main/resources/theme/themes/oppnadata.se/page.tpl.php",
+		"/Users/nic/Develop/projects/oppnadata.se/code/OppnaData.SE/ckan-field-module/src/main/resources/module/modules/ckan_field/ckan_functions.inc",
+		"/Users/nic/Develop/projects/oppnadata.se/code/OppnaData.SE/ckan-field-module/src/main/resources/module/modules/ckan_field/ckan_field_formatter.inc",
+		"/Users/nic/Develop/projects/oppnadata.se/code/OppnaData.SE/ckan-field-module/src/main/resources/module/modules/ckan_field/ckan_field_field.inc",
+		"/Users/nic/Develop/projects/GovStore/code/osgi/portal/drupal-runtime/src/main/resources/drupal-6.26/index.php",
+		"/Users/nic/Develop/projects/GovStore/code/osgi/portal/drupal-runtime/src/main/resources/drupal-6.26/sites/default/settings.php",
+		"/Users/nic/Develop/projects/osgi-poc/apache-karaf-2.2.8/features/features.xml",
+		"/Users/nic/Develop/projects/GovStore/Drupal@Tomcat/site/ROOT/modules/ckan_field/ogdi_field_admin.inc",
+		"/Users/nic/Develop/projects/GovStore/code/info/ckanpackage/ckan_importer/ckan_importer.drush.inc",
+		"/Users/nic/Develop/play-2.0/samples/scala/zentasks/project/Build.scala",
+		"/Users/nic/Develop/play-2.0/samples/scala/comet-clock/project/Build.scala",
+		"/Users/nic/Develop/projects/play/TestApp/project/Build.scala",
+		"/Users/nic/Develop/play-2.0/samples/scala/computer-database/app/controllers/Application.scala",
+		"/Users/nic/Develop/play-2.0/samples/scala/comet-live-monitoring/app/controllers/Application.scala",
+		"/Users/nic/Downloads/mount_samba_baltic",
+		"/Users/nic/Dropbox/Module.java",
+		"/Users/nic/Develop/projects/STAC/escreen/src/main/scala/code/lib/ScreeningMobilityAndStability.scala",
+		"/Users/nic/Develop/Telenor/TNSE/tnse/telenor-se-deploy-tomcat/pom.xml",
+		"/Users/nic/Develop/projects/STAC/escreen/src/main/scala/code/lib/ScreeningFlexibility.scala"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"footer",
+			"foooter",
+			"mosGetParam",
+			"mosConfig_live_site",
+			"$mosConfig_live_site",
+			" $mosConfig_absolute_path",
+			"_VALID_MOS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"JURI::base()",
+			"$this->baseUrl",
+			"_JEXEC"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 2307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true
+}
